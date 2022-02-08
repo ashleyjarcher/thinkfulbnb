@@ -148,7 +148,6 @@ footer p {
   }
   form {
     flex-direction: row;
-    flex-wrap: wrap;
   }
   .form-item {
     flex-direction: column;
